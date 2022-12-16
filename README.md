@@ -2,7 +2,7 @@ b4r-brute
 
 Script para crackear cuentas de Facebook usando la ID del usuario
 
-git clone https://github.com/b4rc0d37/b4r-brute.git
+git clone https://github.com/johnwillian219/ssh
 
 cd b4r-brute
 
